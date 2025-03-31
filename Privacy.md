@@ -4,7 +4,7 @@ Last updated 27 March 2025
 
 In this Privacy Policy we describe how and why we might access, collect, store, use, transfer and/or share ("process") your personal data when you use our application ("App"). Reading this Privacy Policy will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use the App.
 
-1. # **Data We Collect and How We Use It**
+# ** 1. Data We Collect and How We Use It**
 
    Our principal approach is to process as little user information (personal data included) as possible to ensure a private user experience when using the App. 
 
